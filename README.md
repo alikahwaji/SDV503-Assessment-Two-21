@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams](https://teams.microsoft.com/l/team/19%3a03af48710582456a98f78b1775b758f9%40thread.tacv2/conversations?groupId=7ef1ff40-387a-4070-b43e-694b2e4bfd01&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [SDV503teams]()
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -36,9 +36,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:-:|---|---|
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
-|:three:|You must write comments explaining each line in your code, use the index.js file provided in the repo :flashlight:|:ballot_box_with_check:|
+|:three:|Write comments explaining each line in your code, use the index.js file provided in the repo to wirte your JavaScript code. :flashlight:|:ballot_box_with_check:|
 |:four:|Submit both repository's HTTP URL and download the zip folder using assessment two dropbox on moodle. :inbox_tray:|:ballot_box_with_check:|
-|:five:|Write your assessment journal using the journal.md file provided in the repo :pencil:|:ballot_box_with_check:|
+|:five:|Write your assessment reflection using the journal.md file provided in the repo :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
@@ -51,14 +51,14 @@ Check the :white_check_mark: Todos & :x: Not Todos
 ## :page_facing_up: Assessment Two Description
 
 :arrow_right: Assessment Two Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
-              outline timeline and marking rubric
+              outline, due dates and marking rubric
 
 
 :arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://drive.google.com/file/d/15-jOsVxvQtbVNKh_fbQQciEiP5lSsVb2/view?usp=sharing)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQg0vewILbpOilhvA2Bm7hsBGTfmb5GkMP_dTYSJcv4PXQ?e=Ba0wgv)|
 |---|---|---|---|
 
 
